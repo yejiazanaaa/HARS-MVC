@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="servlet-api">
+    <CLASSES>
+      <root url="file://$USER_HOME$/Documents/Tencent Files/1842267272/FileRecv/apache-tomcat-9.0.11-windows-x64/apache-tomcat-9.0.11/lib" />
+      <root url="jar://$USER_HOME$/Documents/Tencent Files/1842267272/FileRecv/apache-tomcat-9.0.11-windows-x64/apache-tomcat-9.0.11/lib/servlet-api.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/Tencent Files/1842267272/FileRecv/apache-tomcat-9.0.11-windows-x64/apache-tomcat-9.0.11/lib/jsp-api.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$USER_HOME$/Documents/Tencent Files/1842267272/FileRecv/apache-tomcat-9.0.11-windows-x64/apache-tomcat-9.0.11/lib" recursive="false" />
+  </library>
+</component>
